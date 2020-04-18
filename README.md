@@ -1,4 +1,4 @@
-# House Price Prediction - King County Housing Dataset
+# King County House Price Prediction
 
 This dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015.
 
