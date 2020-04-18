@@ -24,3 +24,22 @@ This dataset contains house sale prices for King County, which includes Seattle.
 * long: Geographical longitude position of the house.
 * sqft_living15: It is the average house square footage of the 15 closest houses.
 * sqft_lot15: It is the average lot square footage of the 15 closest houses.
+
+
+## Linear Regression
+
+Test MSE: 0.05734992205119554
+Test R2: 0.7940906065684659
+Cross Validation Score 0.05729623822771559
+
+## Lasso
+
+Test MSE: 0.057354499503525475
+Test R2: 0.7940741716649995
+Cross Validation Score 0.05729320989719951
+
+## Random Forest
+
+Test MSE: 0.03403000576598055
+Test R2: 0.8778185288640931
+Cross Validation Score 0.03331292331066567
