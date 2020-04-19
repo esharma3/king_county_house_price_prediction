@@ -28,18 +28,18 @@ This dataset contains house sale prices for King County, which includes Seattle.
 
 ## Linear Regression
 
-* Test MSE: 0.05734992205119554
-* Test R2: 0.7940906065684659
-* Cross Validation Score 0.05729623822771559
+* Test MSE: 0.08219485949521853
+* Test R2: 0.7048872421004834
+* Cross Validation Score 0.08169201394360087
 
 ## Lasso
 
-* Test MSE: 0.057354499503525475
-* Test R2: 0.7940741716649995
-* Cross Validation Score 0.05729320989719951
+* Test MSE: 0.08221273491321496
+* Test R2: 0.704823062126992
+* Cross Validation Score 0.0816374135527322
 
 ## Random Forest
 
-Test MSE: 0.031926122531948896
-Test R2: 0.8853723197861366
-Cross Validation Score 0.030925453748655844
+Test MSE: 0.07173376185107747
+Test R2: 0.7424468096376502
+Cross Validation Score 0.07341217104404467
